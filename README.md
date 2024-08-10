@@ -9,4 +9,4 @@ This project uses deep learning techniques to detect pneumonia from chest X-ray 
 - **Flask**
 - **HTML/CSS/JavaScript**
 
-![Pneumonia Detection Demo](./static/xrayWebapp.gif)
+![Pneumonia Detection Demo](./static/xray.gif)
